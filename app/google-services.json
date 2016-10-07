@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "498656490798",
+    "firebase_url": "https://cello-f8c6c.firebaseio.com",
+    "project_id": "cello-f8c6c",
+    "storage_bucket": "cello-f8c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498656490798:android:d4efbdcff1ddb3e5",
+        "android_client_info": {
+          "package_name": "the.cello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498656490798-0ci0tasr137je87rp2hncam2ti2lbb3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUXBnDsVByHt0wEpot4WVTduZoLDS5Uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
